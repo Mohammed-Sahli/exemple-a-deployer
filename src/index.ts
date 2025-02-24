@@ -12,6 +12,7 @@ const app = express()
 //chargement des variables d'environnement
 dotenv.config()
 
+
 //Définition du port du serveur
 const PORT = process.env.PORT
 
